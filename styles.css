@@ -119,6 +119,10 @@ img {
     background: var(--main-blue);
 }
 
+.nav-link {
+    color: var(--main-gray);
+}
+
 .welcome-section {
     display: flex;
     flex-direction: column;
