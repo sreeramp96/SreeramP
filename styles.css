@@ -115,10 +115,6 @@ img {
     padding: 2rem;
 }
 
-.nav-list a:hover {
-    background: var(--main-blue);
-}
-
 .nav-link {
     color: var(--main-gray);
 }
@@ -150,7 +146,6 @@ img {
 .projects-section-header {
     max-width: 640px;
     margin: 0 auto 6rem auto;
-    border-bottom: 0.2rem solid var(--main-white);
 }
 
 @media (max-width: 28.75em) {
