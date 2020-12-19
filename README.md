@@ -43,4 +43,4 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [LinkedIn](https://linkedin.com/in/sreeramp96) 👨💼
 - [Portfolio](https://sreeramp96.github.io/Portfolio/) 😏🔗
 
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
+![Sreeram's Github Stats](https://github-readme-stats.vercel.app/api?username=sreeramp96&show_icons=true&theme=radical)
