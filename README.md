@@ -11,6 +11,5 @@
 - [Twitter](https://twitter.com/sreeramp96) 🐤
 - [Instagram](https://instagram.com/sreeramp96) 😎
 - [LinkedIn](https://linkedin.com/in/sreeramp96) 👨💼
-- [Portfolio](https://sreeramp96.github.io/Portfolio/) 😏🔗
 
 ![Sreeram's Github Stats](https://github-readme-stats.vercel.app/api?username=sreeramp96&show_icons=true&theme=radical)
