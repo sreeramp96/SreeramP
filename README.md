@@ -5,7 +5,7 @@
 - [Claysys Technologies](https://www.claysys.com/) 💼
 
 ### My Skills
-https://img.shields.io/badge/<LABEL>-<Python>-<green>
+https://img.shields.io/badge/<Python>-<green>
 
 ### 💻 What i am currently/done working on
 - [BookMyScreen](http://sreeramp96.rf.gd/BookMyScreen/)  🚀
