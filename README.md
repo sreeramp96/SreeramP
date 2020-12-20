@@ -1,8 +1,5 @@
 <h2 align="center">Hello there! My name is Sreeram P. 👋🤓</h2>
-<p align="center">I'm a Front End Web Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya.
-I'm also currently doing my Bsc in IT while working on my company and other projects.
-I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging and Automation.
-When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects while listening to LoFi(my own and my clients), Studying or watching anime</p>
+<p align="center">I'm a college graduate passed out in 2019 from College of Engineering, Cherthala. I am currently working as a Software Analyst in ClaySys Technologies, Info park Cherthala. I have 1 year and 3 months of work experience. I have done online certification in Coursera and secured certificates for HTML5, CSS3, PHP and JavaScript. I'm a quick learner and great passion in programming and learning the same. So far, I know HTML5, CSS3, PHP, JavaScript, MySQL and the basics of Python and now I am learning CodeIgniter and React frameworks.</p>
 
 ### 💼 Where i am currently working at/as
 - [Claysys Technologies](https://www.claysys.com/) 💼
