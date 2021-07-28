@@ -2,7 +2,7 @@
 <p align="center">I'm a college graduate passed out in 2019 from College of Engineering, Cherthala. I am currently working as a Software Analyst in ClaySys Technologies, Info park Cherthala. I have 1 year and 3 months of work experience. I have done online certification in Coursera and secured certificates for HTML5, CSS3, PHP and JavaScript. I'm a quick learner and great passion in programming and learning the same. So far, I know HTML5, CSS3, PHP, JavaScript, MySQL and the basics of Python and now I am learning CodeIgniter and React frameworks.</p>
 
 ### 💼 Where i am currently working at/as
-- [Maxwell Geosystems](https://www.maxwellgeosystems.com/) 💼
+- [Maxwell Geosystems](https://www.maxwellgeosystems.com/) 💼 (2021 Apr - Present)
 - [Claysys Technologies](https://www.claysys.com/) 💼 (2019 Jun - 2021 Apr)
 
 ### My Skills
